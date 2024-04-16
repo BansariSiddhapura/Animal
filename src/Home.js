@@ -13,7 +13,7 @@ function Home() {
       <h2>ANIMAL INFO</h2> 
       <Carousel> 
         <Carousel.Item interval={1500}> 
-          <img className="d-block w-100"src="slider1.jpg" alt="Image One" style={{height:"300px"}}/> 
+          <img className="d-block w-100"src="slid1.jpg" alt="Image One" style={{height:"300px"}}/> 
           <Carousel.Caption> 
             <h2>Mammals</h2>
           </Carousel.Caption> 
