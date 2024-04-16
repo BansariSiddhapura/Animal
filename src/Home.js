@@ -13,7 +13,7 @@ function Home() {
       <h2>ANIMAL INFO</h2> 
       <Carousel> 
         <Carousel.Item interval={1500}> 
-          <img className="d-block w-100"src="slid1.jpg" alt="Image One" style={{height:"300px"}}/> 
+          <img className="d-block w-100"src="Slider1.jpg" alt="Image One" style={{height:"300px"}}/> 
           <Carousel.Caption> 
             <h2>Mammals</h2>
           </Carousel.Caption> 
@@ -25,19 +25,19 @@ function Home() {
           </Carousel.Caption> 
         </Carousel.Item> 
         <Carousel.Item interval={1500}> 
-          <img className="d-block w-100" src="slider3.jpg" alt="Image Two" style={{height:"300px"}} /> 
+          <img className="d-block w-100" src="Slider3.jpg" alt="Image Two" style={{height:"300px"}} /> 
           <Carousel.Caption> 
             <h2>Birds</h2>
           </Carousel.Caption> 
         </Carousel.Item> 
         <Carousel.Item interval={1500}> 
-          <img className="d-block w-100" src="slider4.jpg" alt="Image Two" style={{height:"300px"}} /> 
+          <img className="d-block w-100" src="Slider4.jpg" alt="Image Two" style={{height:"300px"}} /> 
           <Carousel.Caption> 
             <h2>Reptiles</h2>
           </Carousel.Caption> 
         </Carousel.Item> 
         <Carousel.Item interval={1500}> 
-          <img className="d-block w-100" src="slider5.jpg" alt="Image Two" style={{height:"300px"}} /> 
+          <img className="d-block w-100" src="Slider5.jpg" alt="Image Two" style={{height:"300px"}} /> 
           <Carousel.Caption> 
             <h2>Arthropods</h2>
           </Carousel.Caption> 
